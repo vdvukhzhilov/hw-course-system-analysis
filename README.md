@@ -1,0 +1,1 @@
+![Scheme](./architecture.drawio.svg)
